@@ -29,7 +29,7 @@ curl http://localhost:3000/api/data
 ```
 
 - Before Caching
-  ![alt text](clip1.png)
-  
-- After Caching
   ![alt text](clip2.png)
+
+- After Caching
+  ![alt text](clip1.png)
